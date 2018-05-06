@@ -1,0 +1,20 @@
+h2{
+    color: red;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: orange;
+    padding-bottom: 1px;
+    margin-bottom: 0px;
+}
+body{
+    background: #45f7e8;
+}
+p{
+    margin-top: 0px;
+}
+a{
+    margin-left: 3px;
+}
