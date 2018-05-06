@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+body{
+    background: #45f7e8;
+}
+li{
+    color: blue;
+}
+input{
+    background: orange;
+}
+#button{
+    background: #122be8;
+    color: #45f7e8;
+}
